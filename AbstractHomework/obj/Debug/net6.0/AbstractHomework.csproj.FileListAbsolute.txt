@@ -1,0 +1,15 @@
+F:\Beetroot.Net\Lesson_13\AbstractHomework\AbstractHomework\bin\Debug\net6.0\AbstractHomework.exe
+F:\Beetroot.Net\Lesson_13\AbstractHomework\AbstractHomework\bin\Debug\net6.0\AbstractHomework.deps.json
+F:\Beetroot.Net\Lesson_13\AbstractHomework\AbstractHomework\bin\Debug\net6.0\AbstractHomework.runtimeconfig.json
+F:\Beetroot.Net\Lesson_13\AbstractHomework\AbstractHomework\bin\Debug\net6.0\AbstractHomework.dll
+F:\Beetroot.Net\Lesson_13\AbstractHomework\AbstractHomework\bin\Debug\net6.0\AbstractHomework.pdb
+F:\Beetroot.Net\Lesson_13\AbstractHomework\AbstractHomework\obj\Debug\net6.0\AbstractHomework.csproj.AssemblyReference.cache
+F:\Beetroot.Net\Lesson_13\AbstractHomework\AbstractHomework\obj\Debug\net6.0\AbstractHomework.GeneratedMSBuildEditorConfig.editorconfig
+F:\Beetroot.Net\Lesson_13\AbstractHomework\AbstractHomework\obj\Debug\net6.0\AbstractHomework.AssemblyInfoInputs.cache
+F:\Beetroot.Net\Lesson_13\AbstractHomework\AbstractHomework\obj\Debug\net6.0\AbstractHomework.AssemblyInfo.cs
+F:\Beetroot.Net\Lesson_13\AbstractHomework\AbstractHomework\obj\Debug\net6.0\AbstractHomework.csproj.CoreCompileInputs.cache
+F:\Beetroot.Net\Lesson_13\AbstractHomework\AbstractHomework\obj\Debug\net6.0\AbstractHomework.dll
+F:\Beetroot.Net\Lesson_13\AbstractHomework\AbstractHomework\obj\Debug\net6.0\refint\AbstractHomework.dll
+F:\Beetroot.Net\Lesson_13\AbstractHomework\AbstractHomework\obj\Debug\net6.0\AbstractHomework.pdb
+F:\Beetroot.Net\Lesson_13\AbstractHomework\AbstractHomework\obj\Debug\net6.0\AbstractHomework.genruntimeconfig.cache
+F:\Beetroot.Net\Lesson_13\AbstractHomework\AbstractHomework\obj\Debug\net6.0\ref\AbstractHomework.dll
